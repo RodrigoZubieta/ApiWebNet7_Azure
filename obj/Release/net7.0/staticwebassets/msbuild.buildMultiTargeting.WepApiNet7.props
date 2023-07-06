@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WepApiNet7.props" />
+</Project>
